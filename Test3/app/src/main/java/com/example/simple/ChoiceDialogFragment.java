@@ -1,0 +1,34 @@
+package com.example.simple;
+
+import android.app.AlertDialog;
+import android.app.Dialog;
+import android.content.DialogInterface;
+import android.os.Bundle;
+
+import androidx.fragment.app.DialogFragment;
+
+public class ChoiceDialogFragment extends DialogFragment {
+    private String[] genders = new String[] {"男","女"};
+    private ChoiceDialogFragment.NotifyDialogListener listener;
+
+    public static class NotifyDialogListener {
+        public void onDialogPositiveClicked(String gender) {
+
+        }
+    }
+    public void setListener(ChoiceDialogFragment.NotifyDialogListener listener) {
+        this.listener = listener;
+    }
+
+    public Dialog onCreateDialog(Bundle savedInstanceState) {
+        AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
+        builder.setTitle("选择对话框")
+                .setItems(genders, new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        listener.onDialogPositiveClicked(genders[which]);
+                    }
+                });
+        return builder.create();
+    }
+}
