@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/nav_graph" app:startDestination="@id/storage">
+
+    <fragment android:id="@+id/storage" android:name="com.example.execise7.homework7.Storage" android:label="Storage"/>
+    <fragment android:id="@+id/inStorage" android:name="com.example.execise7.homework7.InStorage"
+        android:label="InStorage"/>
+    <fragment android:id="@+id/outStorage" android:name="com.example.execise7.homework7.OutStorage"
+        android:label="OutStorage"/>
+    <fragment android:id="@+id/sharePreferencesStorage"
+        android:name="com.example.execise7.homework7.SharePreferencesStorage"
+        android:label="SharePreferencesStorage"/>
+</navigation>
