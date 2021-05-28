@@ -1,0 +1,9 @@
+com/example/test2/MainActivity.java
+ com.example.test2.MainActivity
+ com.example.test2.MainActivity$SimpleDialogFragment
+ com.example.test2.MainActivity$SimpleDialogFragment$1
+ com.example.test2.MainActivity$SimpleDialogFragment$2
+com/example/test2/layout2.java
+ com.example.test2.layout2
+com/example/test2/BuildConfig.java
+ com.example.test2.BuildConfig
