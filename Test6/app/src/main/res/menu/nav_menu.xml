@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="实验二" android:id="@+id/fragment1"/>
+    <item android:title="实验四" android:id="@+id/fragment2"/>
+</menu>
