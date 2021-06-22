@@ -24,28 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecf53432-5f28-4a18-9c85-fb8bf7634258" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Activity/app/src/main/java/com/example/activity/MainActivity2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Activity/app/src/main/res/drawable-v24/backgroud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Activity/app/src/main/res/drawable-v24/drawable-v24/up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Activity/app/src/main/res/drawable-v24/drawable/backgroud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Activity/app/src/main/res/drawable-v24/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Activity/app/src/main/res/drawable-v24/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Activity/app/src/main/res/drawable-v24/drawable/qq.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Activity/app/src/main/res/drawable-v24/qq.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Activity/app/src/main/res/drawable-v24/up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Activity/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Activity/app/src/main/res/layout/layout2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test4/app/src/main/java/com/example/test4/MainActivity2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test4/app/src/main/java/com/example/test4/MainActivity3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test4/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test4/app/src/main/res/layout/activity_main3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test4/app/src/main/res/menu/dialog.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test4/app/src/main/res/menu/main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/test2/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/test2/MainActivity.java" afterDir="false" />
-    </list>
+    <list default="true" id="ecf53432-5f28-4a18-9c85-fb8bf7634258" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +61,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
